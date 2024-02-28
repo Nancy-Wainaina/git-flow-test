@@ -1,0 +1,69 @@
+#Body{
+    background-color: rgb(240, 203, 216);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 5%;
+    border: solid black;
+    border-right-width: 5px;
+    border-bottom-width: 5px;
+
+}
+.sign-up{
+    background-color: rgb(1, 1, 23);
+    color:white;
+    padding: 1px;
+    box-sizing: border-box;
+    cursor: pointer;
+    border-radius: 70px;
+    width: 200%;
+    border-color: transparent;
+    border-radius: 10px;
+
+
+}
+#navigation{
+    display:flex;
+}
+#heading{
+    font-style: italic;
+    line-height: 0cm;
+    margin-bottom: 15px;
+
+
+}
+.search{
+    background-color: transparent;
+    box-sizing: border-box;
+    cursor: pointer;
+    width: 110%;
+    margin-right:20px ;
+    border:  1px solid black;
+    padding: 0px;
+    border-radius: 20px;
+}
+.courses{
+    border: 0cap;
+    background-color: transparent;
+}
+.apply{
+    background-color: transparent;
+    border: 0cap;
+    margin-left: 450px;
+}
+.sign-in{
+    background-color: transparent;
+    border: 0cm;
+}
+.apply,.sign-up,.sign-up{
+    justify-content: space-evenly;
+}
+.courses,.search{
+    justify-content: space-between;
+    
+}
+#Container{
+    border: solid purple 1px;
+    background-color: blueviolet;
+    height: 270px;
+    margin-bottom: 30px;
+}
