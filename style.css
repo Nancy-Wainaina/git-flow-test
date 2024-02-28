@@ -1,3 +1,31 @@
+<<<<<<< HEAD
+#Content{
+   display: flex; 
+   justify-content: space-between;
+   gap: 20px;
+}
+#Paragraph{
+  margin-left: 90px; 
+}
+#books{
+    margin-right: 600px;
+}
+#box{
+    padding: 15px 32px;
+    background-color: white;
+    border-radius: 20px;
+    border: solid 1px;
+    width: 80%
+}
+#sentence{
+    font-size: x-large;
+    font-size: bolder;
+    font-family: Georgia Verdana;
+    
+    
+}
+
+=======
 #Body{
     background-color: rgb(240, 203, 216);
     border-radius: 20px;
@@ -67,3 +95,4 @@
     height: 270px;
     margin-bottom: 30px;
 }
+>>>>>>> main
