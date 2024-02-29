@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Content{
    display: flex; 
    justify-content: space-between;
@@ -8,10 +7,13 @@
   margin-left: 90px; 
 }
 #books{
-    margin-right: 600px;
+    zoom: 30%;
+    margin-right: 750px;
+    margin-top: 250px;
+
 }
 #box{
-    padding: 15px 32px;
+    padding: 10px 32px;
     background-color: white;
     border-radius: 20px;
     border: solid 1px;
@@ -25,32 +27,25 @@
     
 }
 
-=======
-#Body{
-    background-color: rgb(240, 203, 216);
-    border-radius: 20px;
-    padding: 20px;
-    margin: 5%;
-    border: solid black;
-    border-right-width: 5px;
-    border-bottom-width: 5px;
 
-}
+
 .sign-up{
-    background-color: rgb(1, 1, 23);
+    background-color:black;
     color:white;
-    padding: 1px;
-    box-sizing: border-box;
-    cursor: pointer;
+    padding:3px;
+    cursor:pointer;
     border-radius: 70px;
     width: 200%;
     border-color: transparent;
-    border-radius: 10px;
+    border-radius: 15px;
 
 
 }
 #navigation{
     display:flex;
+    margin-top: 25px;
+    padding-left: 40px;
+    padding-right: 30px;
 }
 #heading{
     font-style: italic;
@@ -66,7 +61,7 @@
     width: 110%;
     margin-right:20px ;
     border:  1px solid black;
-    padding: 0px;
+    padding: 3px;
     border-radius: 20px;
 }
 .courses{
@@ -76,7 +71,7 @@
 .apply{
     background-color: transparent;
     border: 0cap;
-    margin-left: 450px;
+    margin-left: 380px;
 }
 .sign-in{
     background-color: transparent;
@@ -90,9 +85,20 @@
     
 }
 #Container{
-    border: solid purple 1px;
-    background-color: blueviolet;
-    height: 270px;
+    height: 2000px;
     margin-bottom: 30px;
 }
->>>>>>> main
+.body{
+    background-color: #b65fcf;
+    margin: 5%;
+}
+#Body{
+    border: solid black 5px;
+    background-color: pink;
+    border-radius: 35px;
+    padding: 1px;
+    border-right-width: 10px;
+    border-bottom-width: 10px;
+    padding-bottom: 150px;
+
+}
